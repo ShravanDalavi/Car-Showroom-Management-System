@@ -48,7 +48,7 @@ o	Employee attributes:
 	Name
 	Employee ID
 	Department
-•	Main Menu Functionality:
+# Main Menu Functionality:
 o	Create a menu-driven interface for users: 
 	Add a new showroom (using the addShowroom method).
 	Display existing showrooms and their details.
