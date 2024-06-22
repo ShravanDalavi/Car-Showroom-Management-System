@@ -17,6 +17,7 @@ Car Showroom Management System aims to transform the traditional car dealership 
 ## Functionalities:
 •	The main menu allows users to add a new showroom, view showroom data, and get lists of employees and cars.
 •	An Interface named Utility is created to demonstrate its use in live projects.
+
 ## Practical Application:
 •	The project demonstrates the practical use of encapsulation, abstraction, polymorphism, and inheritance.
 •	It provides a foundation for building similar management systems like hospital or vaccine management systems, and can be added to personal portfolios or resumes.
