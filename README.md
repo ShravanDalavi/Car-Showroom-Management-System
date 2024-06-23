@@ -34,18 +34,18 @@ o	The project defines several classes, including:
 	Utility: An interface that provides utility methods (e.g., adding showrooms).
 o	The relationships between these classes (inheritance, composition) are crucial for the project’s functionality.
 
-# Takeaways:
+## Takeaways:
 o	By following this project, you’ll gain practical experience in OOP concepts.
 o	You can apply similar principles to other management systems (e.g., hospital management, vaccine management).
 
 
-# Inheritance and Polymorphism:
+## Inheritance and Polymorphism:
 o	Utilize inheritance: 
 	Employee can inherit from a base class (e.g., Person).
 	Implement common methods (e.g., displayDetails) in the base class.
 o	Implement polymorphism: 
 	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
-# Attributes and Relationships:
+## Attributes and Relationships:
 o	Showroom attributes: 
 	Name
 	Address
@@ -54,13 +54,13 @@ o	Employee attributes:
 	Name
 	Employee ID
 	Department
-# Main Menu Functionality:
+## Main Menu Functionality:
 o	Create a menu-driven interface for users: 
 	Add a new showroom (using the addShowroom method).
 	Display existing showrooms and their details.
 	Add employees to showrooms.
 	Retrieve employee information.
-# Testing and Execution:
+## Testing and Execution:
 o	Write a Main class with a main method.
 o	Instantiate objects (showrooms, employees) and test various functionalities.
 o	Ensure that the project compiles and runs without errors.
