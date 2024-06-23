@@ -1,4 +1,6 @@
 # Car-Showroom-Management-System
+![image](https://github.com/ShravanDalavi/Car-Showroom-Management-System/assets/172488772/83a5bbfc-b9b2-4d3f-8e0f-8825d74eb43b)
+
 Car Showroom Management System aims to transform the traditional car dealership operations into a modern, efficient, and customer-centric business process.
 
 # Project Overview:
