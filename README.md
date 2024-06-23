@@ -56,10 +56,15 @@ o	You can apply similar principles to other management systems (e.g., hospital m
 
 ## Inheritance and Polymorphism:
 o	Utilize inheritance: 
+
 	Employee can inherit from a base class (e.g., Person).
+
 	Implement common methods (e.g., displayDetails) in the base class.
+
 o	Implement polymorphism: 
+
 	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
+
 ## Attributes and Relationships:
 o	Showroom attributes: 
 	Name
