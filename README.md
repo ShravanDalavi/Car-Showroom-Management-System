@@ -66,14 +66,23 @@ o	Implement polymorphism:
 	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
 
 ## Attributes and Relationships:
+
 o	Showroom attributes: 
-	Name
-	Address
-	Manager (an instance of Employee)
+
+  	Name
+  
+  	Address
+  
+  	Manager (an instance of Employee)
+  
 o	Employee attributes: 
-	Name
-	Employee ID
-	Department
+
+  	Name
+  
+  	Employee ID
+  
+  	Department
+  
 ## Main Menu Functionality:
 o	Create a menu-driven interface for users: 
 	Add a new showroom (using the addShowroom method).
