@@ -63,7 +63,7 @@ o	Utilize inheritance:
 
 o	Implement polymorphism: 
 
-    	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
+   	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
 
 ## Attributes and Relationships:
 
@@ -84,11 +84,17 @@ o	Employee attributes:
   	Department
   
 ## Main Menu Functionality:
+
 o	Create a menu-driven interface for users: 
+
 	Add a new showroom (using the addShowroom method).
+
 	Display existing showrooms and their details.
+
 	Add employees to showrooms.
+
 	Retrieve employee information.
+
 ## Testing and Execution:
 o	Write a Main class with a main method.
 o	Instantiate objects (showrooms, employees) and test various functionalities.
