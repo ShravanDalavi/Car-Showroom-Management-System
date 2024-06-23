@@ -7,11 +7,11 @@ Car Showroom Management System aims to transform the traditional car dealership 
 •	The project aims to create a car showroom management system using Java and object-oriented programming (OOP) concepts.
 •	It involves designing classes, implementing inheritance, and utilizing polymorphism.
 
-# Project Setup:
+## Project Setup:
 • Create a new Java project in your preferred IDE (e.g., Eclipse, IntelliJ, or Visual Studio Code).
 •	Set up the necessary project structure (directories, packages, etc.). 
 
-# Project Structure:
+## Project Structure:
 •	The main classes include Showroom, Employees, and Cars, with Showroom extending attributes from both Employees and Cars.
 •	Attributes for Showroom include name, address, manager's name, total number of cars, and employees.
 •	Attributes for Employees include name, ID, and department.
