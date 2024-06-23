@@ -40,11 +40,11 @@ o	The system allows interaction with showrooms, employees, and cars.
 ## Class Hierarchy:
 o	The project defines several classes, including: 
 
-	Showroom: Represents a car showroom.
+     	Showroom: Represents a car showroom.
 
-	Employee: Contains attributes like name, ID, and department.
+     	Employee: Contains attributes like name, ID, and department.
 
-	Utility: An interface that provides utility methods (e.g., adding showrooms).
+     	Utility: An interface that provides utility methods (e.g., adding showrooms).
 
 o	The relationships between these classes (inheritance, composition) are crucial for the project’s functionality.
 
@@ -57,23 +57,23 @@ o	You can apply similar principles to other management systems (e.g., hospital m
 ## Inheritance and Polymorphism:
 o	Utilize inheritance: 
 
-	Employee can inherit from a base class (e.g., Person).
+    	Employee can inherit from a base class (e.g., Person).
 
-	Implement common methods (e.g., displayDetails) in the base class.
+    	Implement common methods (e.g., displayDetails) in the base class.
 
 o	Implement polymorphism: 
 
-	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
+    	Use method overriding to customize behavior (e.g., calculateSalary for different employee types).
 
 ## Attributes and Relationships:
 
 o	Showroom attributes: 
 
-  	Name
+    	Name
   
-  	Address
-  
-  	Manager (an instance of Employee)
+    	Address
+   
+    	Manager (an instance of Employee)
   
 o	Employee attributes: 
 
