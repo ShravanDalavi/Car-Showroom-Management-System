@@ -106,3 +106,12 @@ o	Ensure that the project compiles and runs without errors.
 o	Compile and execute the project.
 
 o	Interact with the menu options to add showrooms, employees, and retrieve information.
+
+## Contributors
+
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: [Profile](https://github.com/ShravanDalavi)
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub:  [Email](https://github.com/SonawaneAshwini)
