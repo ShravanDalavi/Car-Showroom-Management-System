@@ -10,6 +10,7 @@ Car Showroom Management System aims to transform the traditional car dealership 
 •	It involves designing classes, implementing inheritance, and utilizing polymorphism.
 
 ## Project Setup:
+
 • Create a new Java project in your preferred IDE (e.g., Eclipse, IntelliJ, or Visual Studio Code).
 
 •	Set up the necessary project structure (directories, packages, etc.). 
