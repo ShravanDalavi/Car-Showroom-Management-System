@@ -36,6 +36,7 @@ Car Showroom Management System aims to transform the traditional car dealership 
 •	It provides a foundation for building similar management systems like hospital or vaccine management systems, and can be added to personal portfolios or resumes.
 
 ## Car Showroom Management System Features:
+
 o	The project includes features related to managing a car showroom.
 
 o	These features might include adding new showrooms, managing employee details, and handling car inventory.
