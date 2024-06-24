@@ -105,6 +105,7 @@ o	Create a menu-driven interface for users:
 	Retrieve employee information.
 
 ## Testing and Execution:
+
 o	Write a Main class with a main method.
 
 o	Instantiate objects (showrooms, employees) and test various functionalities.
