@@ -63,6 +63,7 @@ o	You can apply similar principles to other management systems (e.g., hospital m
 
 
 ## Inheritance and Polymorphism:
+
 o	Utilize inheritance: 
 
   	Employee can inherit from a base class (e.g., Person).
