@@ -16,6 +16,7 @@ Car Showroom Management System aims to transform the traditional car dealership 
 •	Set up the necessary project structure (directories, packages, etc.). 
 
 ## Project Structure:
+
 •	The main classes include Showroom, Employees, and Cars, with Showroom extending attributes from both Employees and Cars.
 
 •	Attributes for Showroom include name, address, manager's name, total number of cars, and employees.
