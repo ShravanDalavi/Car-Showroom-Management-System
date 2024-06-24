@@ -103,6 +103,7 @@ o	Instantiate objects (showrooms, employees) and test various functionalities.
 o	Ensure that the project compiles and runs without errors.
 
 ## Run the Project:
+
 o	Compile and execute the project.
 
 o	Interact with the menu options to add showrooms, employees, and retrieve information.
