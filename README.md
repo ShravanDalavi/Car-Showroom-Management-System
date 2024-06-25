@@ -127,3 +127,8 @@ o	Interact with the menu options to add showrooms, employees, and retrieve infor
   - Contact: ashwinisonawane@gmail.com
   - GitHub:  [Email](https://github.com/SonawaneAshwini)
     
+1. Clone the Repository:
+```bash
+            git clone https://github.com/yourusername/word-count-tool.git
+            cd word-count-tool
+
